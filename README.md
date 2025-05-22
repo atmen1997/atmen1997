@@ -38,7 +38,3 @@
 
 📇 [LinkedIn – Duong Vu](https://www.linkedin.com/in/duongvu97/)  
 I'm open to research, industry collaborations, and data-driven innovation opportunities!
-
----
-
-> *"The best way to predict the future is to create it."* — Abraham Lincoln
