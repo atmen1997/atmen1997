@@ -1,8 +1,5 @@
 ## 👋 Hi there, I'm Duong Vu
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=atmen1997&color=blue)
-
 🎓 I'm currently pursuing a **Master's in Computational Intelligence for Data Analytics** at [Cranfield University (UK)](https://www.cranfield.ac.uk/courses/taught/computational-intelligence-for-data-analytics).
 
 ### 📘 MSc Thesis (w/ Airbus)
