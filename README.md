@@ -2,6 +2,8 @@
 
 🎓 I'm currently pursuing a **Master's in Computational Intelligence for Data Analytics** at [Cranfield University (UK)](https://www.cranfield.ac.uk/courses/taught/computational-intelligence-for-data-analytics).
 
+---
+
 ### 📘 MSc Thesis (w/ Airbus)
 
 **Current Project:** _AI-Powered Bio-Inspired Landing Gear Design_  
